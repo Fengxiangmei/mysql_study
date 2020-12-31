@@ -74,6 +74,18 @@
 
    简单易懂版：https://www.cnblogs.com/progor/p/8877821.html
 
+8. 数据库设计
+
+   https://blog.51cto.com/9291927/2087925
+
+   https://www.cnblogs.com/dayle/p/9946714.html
+
+   数据库设计文档模板参考word文档
+
+   
+
+
+
 
 
 ​						
