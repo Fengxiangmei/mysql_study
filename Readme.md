@@ -82,6 +82,14 @@
 
    数据库设计文档模板参考word文档
 
+9. 存储过程
+
+   https://blog.csdn.net/Weixiaohuai/article/details/104192498
+   
+11. 触发器
+  
+   http://c.biancheng.net/view/2600.html
+
    
 
 
