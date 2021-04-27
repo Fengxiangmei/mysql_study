@@ -70,7 +70,7 @@
 
    复杂原理版：https://www.jianshu.com/p/081a3e208e32
 
-   ​					https://www.cnblogs.com/FondWang/p/12209142.html
+   ​https://www.cnblogs.com/FondWang/p/12209142.html
 
    简单易懂版：https://www.cnblogs.com/progor/p/8877821.html
 
@@ -89,7 +89,9 @@
 11. 触发器
   
    http://c.biancheng.net/view/2600.html
-
+   
+   
+   
    
 
 
@@ -107,6 +109,8 @@
 
 
 总复习语句： https://segmentfault.com/a/1190000022799851
+
+另一版本的mysql教程：http://c.biancheng.net/mysql/
 
 
 
